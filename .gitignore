@@ -1,4 +1,7 @@
-models
+models/
+restyle/
+stylegan_ada/
+stylegan_nada/
 *.amltmp
 .ipynb_aml_checkpoints
 .amlignore
