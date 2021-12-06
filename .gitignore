@@ -1,8 +1,10 @@
 models/
 output/
+input/
 restyle/
 stylegan_ada/
 stylegan_nada/
 *.amltmp
 .ipynb_aml_checkpoints
 .amlignore
+shape_predictor_68_face_landmarks*
